@@ -29,7 +29,7 @@
 
     <properties>
         <okhttp.version>3.14.6</okhttp.version>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <spring.boot.version>2.2.0.RELEASE</spring.boot.version>
         <maven.compiler.plugin.version>3.6.2</maven.compiler.plugin.version>
     </properties>
